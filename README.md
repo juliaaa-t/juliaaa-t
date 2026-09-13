@@ -3,7 +3,7 @@
 - An aspiring ML Engineer and Data Scientist hoping to make an impact in tech!
 
 ## Contact details!
-- Linkedin
+- [Linkedin](https://www.linkedin.com/in/julia-m-tan/)
 - Email: julia.mh.tan@gmail.com
 <!--
 **juliaaa-t/juliaaa-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
