@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Julia! 👋
+- Actuarial Science and Economics @ University of Toronto
+- An aspiring ML Engineer and Data Scientist hoping to make an impact in tech!
 
+## Contact details!
+- Linkedin
+- Email: julia.mh.tan@gmail.com
 <!--
 **juliaaa-t/juliaaa-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
