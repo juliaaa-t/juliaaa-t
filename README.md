@@ -1,5 +1,5 @@
 ## Hi there, I'm Julia! 👋
-- Actuarial Science and Economics @ University of Toronto
+- Statistics and Economics @ University of Toronto
 - An aspiring ML Engineer and Data Scientist hoping to make an impact in tech!
 
 ## Contact details!
